@@ -159,6 +159,11 @@ const API_SITES = {
          adult: true,
          detail: 'https://hsckzy.vip'
      },
+     slzy: {
+         api: 'https://slapibf.com/api.php/provide/vod',
+         name: '森林资源',
+         adult: true
+     },
      yutu: {
          api: 'https://yutuzy10.com',
          name: '玉兔资源',
